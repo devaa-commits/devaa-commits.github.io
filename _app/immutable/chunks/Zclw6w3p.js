@@ -1,0 +1,1 @@
+var e={new:`warn`,assigned:`brand`,out_for_delivery:`brand`,delivered:`good`,cancelled:`neutral`,failed:`bad`},t={lead:`neutral`,trial:`warn`,active:`good`,paused:`neutral`,churned:`bad`},n={hub:`brand`,out_for_delivery:`warn`,at_customer:`good`,at_kirana:`good`,at_plant:`neutral`,damaged:`bad`,retired:`neutral`,lost:`bad`};export{t as n,e as r,n as t};

@@ -1,0 +1,1 @@
+import{H as e,nt as t,rt as n,tt as r}from"./CeRQAtRs.js";var i=new class{#e=n(r([]));get items(){return e(this.#e)}set items(e){t(this.#e,e,!0)}#t=1;show(e,t=`success`,n=3500){let r=this.#t++;this.items.push({id:r,kind:t,text:e}),setTimeout(()=>this.dismiss(r),n)}dismiss(e){this.items=this.items.filter(t=>t.id!==e)}};export{i as t};

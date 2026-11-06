@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./CeRQAtRs.js";import{t as n}from"./CAvZx082.js";var r={name:`indian-rupee`,size:24,node:[[`path`,{d:`m14 20-8-8h4c5.333 0 5.333-8 0-8`}],[`path`,{d:`M6 4h12`}],[`path`,{d:`M6 8h12`}]]};r.node;var i=new Set([`$$slots`,`$$events`,`$$legacy`]);function a(a,o){let s=e(o,i);n(a,t(()=>s,{get icon(){return r}}))}export{a as t};

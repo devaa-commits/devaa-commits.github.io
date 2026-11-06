@@ -1,0 +1,1 @@
+export{i as load_css,r as start}from"./BiBOiX-v.js";
